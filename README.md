@@ -8,7 +8,6 @@
 <img width="583" height="482" alt="스크린샷 2025-10-31 오후 2 12 35" src="https://github.com/user-attachments/assets/bed2f382-a344-4f6f-aee3-ca8f26fed6f1" />
 
 ## 2. AI Agent for YouTube Subtitle Extraction using Supadata MCP
-![자막 추출 - 영어](https://github.com/user-attachments/assets/46e240b3-d644-422e-a274-b0f1b45b38ae)
 ![자막 추출 - 영어_fast](https://github.com/user-attachments/assets/61b797e5-33de-4202-9c89-c2c05916bbc7)
 
    
