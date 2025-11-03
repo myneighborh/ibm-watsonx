@@ -9,6 +9,7 @@
 
 ## 2. AI Agent for YouTube Subtitle Extraction using Supadata MCP
 ![자막 추출 - 영어](https://github.com/user-attachments/assets/46e240b3-d644-422e-a274-b0f1b45b38ae)
+![자막 추출 - 영어_fast](https://github.com/user-attachments/assets/61b797e5-33de-4202-9c89-c2c05916bbc7)
 
    
 ## 3. Agentic AI-based Multi-Agent Warehouse Management System
