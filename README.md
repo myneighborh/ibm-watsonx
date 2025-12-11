@@ -1,7 +1,7 @@
 # IBM watsonx
 ## 1. AI Agent Workflow for Automated Extraction of Contract and Invoice Information
 <img width="383" height="628" alt="워크플로우" src="https://github.com/user-attachments/assets/16cbc5a6-90d5-4869-9c25-afe4bbe00d99" /><br>
-<img width="584" height="512" alt="스크린샷 2025-10-31 오후 1 51 53" src="https://github.com/user-attachments/assets/06dbb727-bb17-4067-824c-da8fbff5cab1" />
+<img width="584" height="512" alt="스크린샷 2025-10-31 오후 1 51 53" src="https://github.com/user-attachments/assets/06dbb727-bb17-4067-824c-da8fbff5cab1" /><br>
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/0433a039-d860-4232-a7c6-49c3c1df0889" /><br>
 <img width="581" height="235" alt="스크린샷 2025-10-31 오후 1 52 13" src="https://github.com/user-attachments/assets/62750070-8928-4a15-a9d1-a4e39d66b7e2" /><br>
 <img width="587" height="533" alt="스크린샷 2025-10-31 오후 2 12 46" src="https://github.com/user-attachments/assets/642b8ea7-40c7-4285-b6a7-79012c08a125" />
