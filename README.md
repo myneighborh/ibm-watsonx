@@ -2,9 +2,9 @@
 ## 1. AI Agent Workflow for Automated Extraction of Contract and Invoice Information
 <img width="383" height="628" alt="워크플로우" src="https://github.com/user-attachments/assets/16cbc5a6-90d5-4869-9c25-afe4bbe00d99" /><br>
 
-<img width="720" height="1037" alt="image" src="https://github.com/user-attachments/assets/0433a039-d860-4232-a7c6-49c3c1df0889" />
-<img width="787" height="1016" alt="image" src="https://github.com/user-attachments/assets/c033a6df-e1d3-40cb-9b62-56082cbfc2c9" />
-<img width="789" height="1019" alt="image" src="https://github.com/user-attachments/assets/573d7fa5-3be1-4293-b403-5f74bfaded85" />
+<img width="260" height="1000" alt="image" src="https://github.com/user-attachments/assets/0433a039-d860-4232-a7c6-49c3c1df0889" />
+<img width="260" height="1000" alt="image" src="https://github.com/user-attachments/assets/c033a6df-e1d3-40cb-9b62-56082cbfc2c9" />
+<img width="260" alt="image" src="https://github.com/user-attachments/assets/573d7fa5-3be1-4293-b403-5f74bfaded85" />
 
 
 <img width="584" height="512" alt="스크린샷 2025-10-31 오후 1 51 53" src="https://github.com/user-attachments/assets/06dbb727-bb17-4067-824c-da8fbff5cab1" />
